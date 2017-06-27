@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/button11"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="avl10"
+                android:text="AVL 10"
+                />
+
+            <Button
+                android:id="@+id/button12"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="avl25"
+                android:text="AVL 25"
+         />
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="avl50"
+                android:text="AVL50"
+               />
+
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="avl100"
+                android:text="AVL100"
+               />
+
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="avl250"
+                android:text="AVL250"
+                 />
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="avl500"
+                android:text="AVL500"
+               />
+
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="avl1000"
+                android:text="AVL 1,000"
+              />
+
+            <Button
+                android:id="@+id/button51"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="avl10000"
+                android:text="AVL 10,000"
+                />
+
+            <!-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -->
+
+            <Button
+                android:id="@+id/button21"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="rb10"
+                android:text="RB 10"
+         />
+
+            <Button
+                android:id="@+id/button22"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="rb25"
+                android:text="RB 25"
+                />
+
+            <Button
+                android:id="@+id/button23"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="rb50"
+                android:text="RB 50"
+                />
+
+            <Button
+                android:id="@+id/button25"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="rb100"
+                android:text="RB 100"
+              />
+
+            <Button
+                android:id="@+id/button26"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="rb250"
+                android:text="RB 250"
+                />
+
+            <Button
+                android:id="@+id/button27"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="rb500"
+                android:text="RB 500"
+        />
+
+
+            <Button
+                android:id="@+id/button28"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="rb1000"
+                android:text="RB 1,000"
+             />
+
+            <Button
+                android:id="@+id/button29"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="rb10000"
+                android:text="RB 10,000"
+ />
+
+            <!-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -->
+
+            <Button
+                android:id="@+id/button31"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="btree10"
+                android:text="BTREE 10"
+             />
+
+            <Button
+                android:id="@+id/button32"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="btree25"
+                android:text="BTREE 25"
+                />
+
+            <Button
+                android:id="@+id/button33"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="btree50"
+                android:text="BTREE 50"
+                />
+
+            <Button
+                android:id="@+id/button34"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="btree50"
+                android:text="BTREE 50"
+         />
+
+            <Button
+                android:id="@+id/button35"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="btree100"
+                android:text="BTREE 100"
+ />
+
+            <Button
+                android:id="@+id/button36"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="btree250"
+                android:text="BTREE 250"
+       />
+
+            <Button
+                android:id="@+id/button37"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="btree500"
+                android:text="BTREE 500"
+ />
+
+
+            <Button
+                android:id="@+id/button38"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="btree1000"
+                android:text="BTREE 1,000"
+              />
+
+            <Button
+                android:id="@+id/button39"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+
+                android:layout_weight="1"
+                android:onClick="btree10000"
+                android:text="BTREE 10,000"
+     />
+
+            <!-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -->
+ />
+
+            <Button
+                android:id="@+id/button7"
+                android:layout_width="205dp"
+                android:layout_height="52dp"
+                android:layout_weight="1"
+                android:onClick="caso1tempos"
+                android:text="Caso1tempos"
+ />
+
+            <Button
+                android:id="@+id/button8"
+                android:layout_width="205dp"
+                android:layout_height="52dp"
+                android:layout_weight="1"
+                android:onClick="caso2tempos"
+                android:text="caso2tempos" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>
